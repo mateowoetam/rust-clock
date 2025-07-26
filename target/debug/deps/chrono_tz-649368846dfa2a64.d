@@ -1,0 +1,15 @@
+/home/user/Documents/code/rust-clock/target/debug/deps/chrono_tz-649368846dfa2a64.d: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/binary_search.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/directory.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezone_impl.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezones.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/directory.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/timezones.rs
+
+/home/user/Documents/code/rust-clock/target/debug/deps/libchrono_tz-649368846dfa2a64.rlib: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/binary_search.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/directory.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezone_impl.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezones.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/directory.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/timezones.rs
+
+/home/user/Documents/code/rust-clock/target/debug/deps/libchrono_tz-649368846dfa2a64.rmeta: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/binary_search.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/directory.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezone_impl.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezones.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/directory.rs /home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/timezones.rs
+
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/binary_search.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/directory.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezone_impl.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chrono-tz-0.8.6/src/timezones.rs:
+/home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/directory.rs:
+/home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out/timezones.rs:
+
+# env-dep:OUT_DIR=/home/user/Documents/code/rust-clock/target/debug/build/chrono-tz-b479b05ea81661ea/out
